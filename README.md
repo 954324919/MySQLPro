@@ -1,1 +1,1 @@
-# MySQLPro
+# MySQL练习
